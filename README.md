@@ -14,13 +14,13 @@ pip install requests
 
 python lyc.py
 
-![捕获](.\捕获.PNG)
+![捕获](.\1.PNG)
 
 
 
 得到结果
 
-![捕获2](.\捕获2.PNG)
+![捕获2](.\2.PNG)
 
 
 
